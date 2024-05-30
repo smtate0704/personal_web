@@ -1,11 +1,17 @@
 ---
 title: "Sarah Tate"
+image: media/me.JPG
+toc: TRUE
+about:
+  template: solana
+  image-shape: round
+  image-width: 10em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/sarah-tate-a4b976274
+    - text: GitHub
+      href: https://github.com/smtate0704 
+
 ---
+        
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
