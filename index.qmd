@@ -5,7 +5,7 @@ toc: TRUE
 about:
   template: solana
   image-shape: round
-  image-width: 10em
+  image-width: 20em
   links:
     - text: LinkedIn
       href: www.linkedin.com/in/sarah-tate-a4b976274
