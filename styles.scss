@@ -1,3 +1,48 @@
 /*-- scss:defaults --*/
 
+// Import fonts
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Reddit+Mono:wght@200..900&display=swap');
+
+// Fonts
+
+$sans: "DM Sans", sans-serif;
+
 // Colors
+$cream: #FDFBF7;
+$gray: #666666;
+$purple: #9158A2;
+$light-purple: #F3E3FE;
+$blue: #76AED9;
+$light-blue: #DBECF4;
+$green: #357D23;
+$light-green: #DEF5B7;
+$black: #000000;
+$dark-blue: #003399;
+
+// Base document colors
+$navbar-bg: $cream; // navbar
+$navbar-fg: $blue; // navbar foreground elements
+$navbar-hl: $gray; // highlight color when hovering over navbar links
+$body-bg: $light-blue; // page background
+$body-color: $gray; // page text 
+$link-color: $blue; // hyperlinks 
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $purple; // inline code text color
+
+/*-- scss:rules --*/
+
+h1 {
+  letter-spacing: 4px;
+  font-weight: 800
+}
+
+.title {
+  color: gray;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $sans;
+}
