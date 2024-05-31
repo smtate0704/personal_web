@@ -14,8 +14,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-    page-layout: full
+    toc: false
 
 editor: visual
 
