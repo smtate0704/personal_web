@@ -4,8 +4,8 @@ image: media/me.JPG
 toc: FALSE
 about:
   template: solana
-  image-shape: square
-  image-width: 20em
+  image-shape: round
+  image-width: 30em
   links:
     - text: LinkedIn
       icon: linkedin
