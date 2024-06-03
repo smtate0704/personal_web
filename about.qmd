@@ -3,4 +3,18 @@ title: "Crochet"
 ---
 
 Here are some of my recent crochet projects! I have been crocheting since the beginning of this school year, and have improved a lot since I started.
+---
+<div style="text-align: center;">
+<div style="float: middle; margin-right: 10px;">
+![This is a case that I crocheted recently to hold all of my materials! ](docs/media/case.png){width="500px" height="400px"}
+
+![I crocheted straps and a flower boutineer for formal! ](docs/media/flowers.JPG){width="400px" height="510px"}
+
+![One of the first shirts I made myself ](docs/media/shirt.jpg){width="460px" height="500px"}
+
+![My sister (left) wearing the green shrug top I made for her ](docs/media/shrug.jpg){width="430px" height="520px"}
+
+
+![My friend Lucy (left) wearing the tank top I made her for her birthday ](docs/media/tank.jpg){width="440px" height="450px"}
+
 

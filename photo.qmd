@@ -1,5 +1,15 @@
 ---
 title: "Photography"
 ---
+Here are some recent photos which I have taken on my Nikon camera! I am taking a photography class over this summer, so I expect my skills to improve soon.
 
+---
+<div style="text-align: center;">
+<div style="float: middle; margin-right: 10px;">
+![Picture of my friend Eva at her birthday party ](docs/media/eva.JPG){width="395px" height="530px"}
 
+![Grad picture of my friend Jess ](docs/media/jess1.jpg){width="390px" height="530px"}
+
+![Grad picture of my friend Jess ](docs/media/jess2.jpg){width="470px" height="490px"}
+
+![Grad picture of my friend Jess ](docs/media/jess3.jpg){width="420px" height="540px"}
