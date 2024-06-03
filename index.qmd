@@ -1,6 +1,6 @@
 ---
 title: "Sarah Tate"
-image: media/me.JPG
+image: docs/media/me.JPG
 toc: FALSE
 about:
   template: solana

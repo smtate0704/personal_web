@@ -5,11 +5,11 @@ title: "Portfolio"
 Here is a project I am especially proud of from ES 165B: Environmental Impact Analysis.
 
 I had to write up my own impact analysis report for a proposed housing development on Campus Point at UCSB, and evaluated how this project would impact recreational resources in and around this area!
-
+---
 
 <div style="text-align: center;">
 <div style="float: middle; margin-right: 10px;">
 ![](docs/media/title.png){width="410px" height="530px"}
-[Open and Download PDF](docs/media/EIR.pdf)
+[Open and Download PDF](docs/media/EIR.pdf) 
 
 
